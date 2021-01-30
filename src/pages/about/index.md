@@ -1,19 +1,22 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: WHO WE ARE
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+ITPLUS is an Auckland, New Zealand based industry-leading distributor of electronic security products and we take pride in sourcing & delivering world-class security products and solutions from our partnering suppliers / manufacturers from all over the world.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+The extensive product-range includes Access Control, Accessories, Alarms, Audio, Fog Cannons, Intercoms, Locks, Networking, Power, Surveillance (Analogue, HDCVI, HDSDI, HDTVI, IP, Special surveillance), Thermal, TVs / Monitors and Video Transmission products.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Sharvil Patel, an industry specialist with more than 15 years experience in CCTV with IT background, started the company in 2007 with a long-term vision to bring latest high quality products from around the globe and provide to the industry at best possible prices.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Our industry-trained and IT educated team ensures our clients are supplied with products that are best fit to their application requirements.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+ITPLUS office & warehouse is based in East Tamaki, Auckland, from where we provide onsite/offsite sales, marketing, training and technical support to our channel-partners. By having our internal communications and business systems on cloud, we comfortably serve nationally.
+
+New reseller enquiries are warmly welcome, kindly email us on info@itplus.co.nz. Web-ordering facility is also provided to selected channel-partners with secure web-login.
+
+## Mission
+Our mission is to create and deliver customer driven world-class security solutions, through the innovative use of technology and thus maximizing benefit for our channel-partners and end-users.
+
+## Vision
+Our vision is to be the leading & foremost security solutions supplier in Australasia.
